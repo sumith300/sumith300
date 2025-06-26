@@ -1,5 +1,5 @@
 # 💫 About Me:
-I do springbooty
+I do spring-booty
 
 
 # 💻 Tech Stack:
